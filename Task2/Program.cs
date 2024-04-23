@@ -17,3 +17,10 @@ double product2 = i1 * d1;
 Console.WriteLine(product);
 Console.WriteLine(product1);
 Console.WriteLine(product2);
+
+int quotient =i1 / i2;
+System.Console.WriteLine(quotient);
+
+d1 = 6;
+double quotient1 = i1 / d1;
+System.Console.WriteLine(quotient1);
